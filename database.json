@@ -1,0 +1,55 @@
+{
+    "animals": [
+        {
+            "id": 1,
+            "name": "Doodles",
+            "breed": "Poodle",
+            "customerId": 1,
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Chip",
+            "breed": "Mut",
+            "customerId": 2,
+            "locationId": 2
+        },
+        {
+            "id": 3,
+            "name": "Paws",
+            "breed": "Cat",
+            "customerId": 1,
+            "locationId": 1
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Hannah Hall",
+            "address": "7002 Chestnut Ct"
+        },
+        {
+            "id": 2,
+            "name": "Dakota Lambert",
+            "address": "1000 Hollywood Blvd"
+        },
+        {
+            "id": 3,
+            "name": "Paul Hugh",
+            "address": "4111 Bramell"
+        }
+    ],
+    "employees": [],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville North",
+            "address": "8422 Johnson Pike"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "209 Emory Drive"
+        }
+    ]
+}
